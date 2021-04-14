@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akseton
 - 👀 I’m interested in building sentient beings
-- 🌱 I’m currently learning web "design"
+- 🌱 I’m currently learning how to use a couple of different AWS services
 - 💞️ I’m looking to collaborate on the biggest of projects
 - 📫 How to reach me andrewseton@outlook.com
 
